@@ -1,6 +1,10 @@
 
 # Análise de Dados da COVID-19 no Brasil
 
+## Link para visualização
+
+Streamlit.io: 
+
 ## Descrição
 
 Este projeto consiste em um dashboard interativo para análise de dados da COVID-19 no Brasil, abrangendo o período de 2020 a 2022. A aplicação foi desenvolvida com Streamlit e permite a visualização de casos, óbitos e outros indicadores através de gráficos e métricas dinâmicas.
