@@ -205,4 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-data/*.csv
+data/caso_full.csv
+clean_caso_full.csv
